@@ -14,7 +14,7 @@
 <div class="container">
     <div class="custom-calendar-wrap custom-calendar-full">
         <div class="custom-header clearfix">
-            <h2><a id="nickname" href="javascript:void(0);">{{.userinfo.Nickname}}</a> - 掌圣订餐</h2>
+            <h2><a id="nickname" href="javascript:void(0);">{{.userinfo.Nickname}}</a> - 订餐</h2>
             <h3 class="custom-month-year">
                 <span id="custom-month" class="custom-month"></span>
                 <span id="custom-year" class="custom-year"></span>
